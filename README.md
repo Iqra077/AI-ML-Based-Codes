@@ -1,2 +1,2 @@
 # AI/ML-Based 
-Some codes related to AI and ML.
+Codes related to AI and ML.
